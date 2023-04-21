@@ -1,0 +1,15 @@
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\bin\Debug\net5.0\NorthWind.Entities.deps.json
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\bin\Debug\net5.0\NorthWind.Entities.runtimeconfig.json
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\bin\Debug\net5.0\NorthWind.Entities.runtimeconfig.dev.json
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\bin\Debug\net5.0\NorthWind.Entities.dll
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\bin\Debug\net5.0\ref\NorthWind.Entities.dll
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\bin\Debug\net5.0\NorthWind.Entities.pdb
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.csproj.AssemblyReference.cache
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.AssemblyInfoInputs.cache
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.AssemblyInfo.cs
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.dll
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\obj\Debug\net5.0\ref\NorthWind.Entities.dll
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.pdb
+C:\Users\JESUS MENZA\Desktop\Arquitectura Limpia\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.genruntimeconfig.cache
